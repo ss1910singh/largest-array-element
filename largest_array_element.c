@@ -1,6 +1,6 @@
 #include<stdio.h>
  int main(){
-    int size,i,largest,j;
+    int size,i,largest;
     printf("enter size of array:- ");
     scanf("%d",&size);
     int a[size];
